@@ -7,6 +7,7 @@ you could use this notebook file in any of image classifying ploblem by change c
 I hope it will help you... I upload this file because the codes in github didn't work well on my machine ;( 
 
 download dog dataset: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+
 download skin cancer dataset: https://github.com/udacity/dermatologist-ai
 
 You sould create directory named 'saved_model' to save weight file while running the notebook.
